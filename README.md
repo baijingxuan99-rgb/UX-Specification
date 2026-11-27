@@ -24,4 +24,5 @@
 ## 美术视觉审查 V1.1
 独立页面 `visual.html`：上传截图、本地像素诊断、四级框选、灰度/模糊/显著性视图、双图对照、18项规范自查与报告导出。详见 [美术视觉审查](docs/美术视觉审查.md)。不上传截图，不调用 AI API。
 
-- [美术使用手册 V1.1](docs/美术使用手册.md) · [网页阅读版](https://baijingxuan99-rgb.github.io/UX-Specification/visual-guide.html)
+- [美术图文使用手册 V1.2](docs/美术使用手册.md) · [网页阅读版](https://baijingxuan99-rgb.github.io/UX-Specification/visual-guide.html)
+- 手册新增 7 组原创竖屏 UI 优化前后对照、3 张操作图解；工具版本仍为 V1.1。
